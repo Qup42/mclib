@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/bep/mclib"
+	"github.com/qup42/mclib"
 	qt "github.com/frankban/quicktest"
 )
 

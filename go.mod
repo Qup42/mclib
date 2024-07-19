@@ -1,4 +1,4 @@
-module github.com/bep/mclib
+module github.com/qup42/mclib
 
 go 1.19
 

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bep/mclib/internal"
+	"github.com/qup42/mclib/internal"
 )
 
 var errorReplacer = strings.NewReplacer(
